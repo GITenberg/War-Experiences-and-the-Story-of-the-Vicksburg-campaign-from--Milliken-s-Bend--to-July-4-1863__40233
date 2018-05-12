@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '40498'
     url: http://www.gutenberg.org/2009/agents/40498
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40233#War-Experiences-and-the-Story-of-the-Vicksburg-campaign-from--Milliken-s-Bend--to-July-4-1863_
 gutenberg_issued: '2012-07-14'
 gutenberg_type: Text
 identifiers:
