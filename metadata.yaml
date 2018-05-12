@@ -1,0 +1,32 @@
+_repo: War-Experiences-and-the-Story-of-the-Vicksburg-campaign-from--Milliken-s-Bend--to-July-4-1863__40233
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Kellogg, J. J. (John Jackson)
+    alias: Kellogg, John Jackson
+    birthdate: 1837
+    deathdate: 1916
+    gutenberg_agent_id: '40498'
+    url: http://www.gutenberg.org/2009/agents/40498
+description: ''
+gutenberg_issued: '2012-07-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40233'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Regimental histories'
+- !lcc 'E456'
+- !lcsh 'Vicksburg (Miss.) -- History -- Siege, 1863'
+- !lcsh 'United States. Army. Illinois Infantry Regiment, 113th (1862-1865)'
+title: "War Experiences and the Story of the Vicksburg Campaign from \"Milliken's\
+  \ Bend\" to July 4, 1863\r\nbeing an accurate and graphic account of campaign events\
+  \ taken from the diary of Capt. J.J. Kellogg, of Co. B 113th Illinois volunteer\
+  \ infantry"
+url: http://www.gutenberg.org/ebooks/40233
